@@ -1,0 +1,1 @@
+El contendio de este repositorio es el resultado de la clonacion de un Wordpress oficial y puesto en mis repositorios, con el fin de realizar demostraciones y/o adicionar o cambiar archivos locales en mi version de Wordpress
